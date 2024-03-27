@@ -1,8 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcycnY4dmRkbDYweXZvYWM0bG1lZWdocWpuZm5jNXdwanlzaGUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4B9tlumUF5KrybOxVL/giphy.gif"  width="100%" height="500px" >
 
-
-
-![](https://komarev.com/ghpvc/?username=ArdaKara99&color=blue)
 <div align="center">
  <a href="https://github.com/ArdaKara99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+ArdaKara+99+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
