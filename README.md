@@ -9,11 +9,6 @@
 
 - 🔭 I’m currently working on PHP
 
-- 🌱 I’m currently learning **PHP-Laravel**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ArdaKara99](https://github.com/ArdaKara99)
-
-- 💬 Ask me about **WEB DESİNG**
 
 
 <h3 align="left">Connect with me:</h3>
