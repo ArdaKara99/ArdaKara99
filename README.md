@@ -7,7 +7,7 @@
 
 <h3 align="left">&nbsp; A passionate fullstack Web developer from Türkiye</h3>
 
-- 🔭 I’m currently working on PHP
+- 🔭 I’m currently working on PH
   
 - 🌱 I’m currently learning **PHP-Laravel**
 
