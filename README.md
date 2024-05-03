@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaKara99](https://github.com/ArdaKara99)
 
-- 💬 Ask me about **WEB DESİNG**
+
 
 
 
