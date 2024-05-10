@@ -7,7 +7,10 @@
 
 <h3 align="left">&nbsp; A passionate fullstack Web developer from Türkiye</h3>
 
+- 🔭 I’m currently working on PHP
 
+- 🌱 I’m currently learning **PHP-Laravel**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ArdaKara99](https://github.com/ArdaKara99)
 
 - 💬 Ask me about **WEB DESİNG**
